@@ -1,26 +1,97 @@
 @import "tailwindcss";
 
+/* ----------------------------------------------------------------------------
+   Believe Interiors — Design System
+   Luxury minimalism: black premium sections, generous whitespace,
+   gold used sparingly as accent only (never as a fill background).
+---------------------------------------------------------------------------- */
+
+@theme {
+  /* Brand palette */
+  --color-ink: #000000;
+  --color-paper: #ffffff;
+  --color-gold: #d4af37;
+
+  /* Neutrals */
+  --color-cream: #f9f7f4; /* neutral-50  */
+  --color-sand: #e8e5e0; /* neutral-100 */
+  --color-taupe: #62605d; /* neutral-600 */
+  --color-umber: #48463f; /* neutral-700 */
+
+  /* Typography */
+  --font-serif: var(--font-playfair), Georgia, "Times New Roman", serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+}
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+@layer base {
+  body {
+    background: var(--color-paper);
+    color: var(--color-umber);
+    font-family: var(--font-sans);
+    line-height: 1.6;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-serif);
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    line-height: 1.15;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+/* Uppercase gold label used across sections */
+@layer components {
+  .label {
+    font-family: var(--font-sans);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: var(--color-gold);
+  }
+}
+
+/* Subtle scroll-reveal animation (respects reduced motion) */
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.reveal {
+  opacity: 0;
+}
+
+.reveal.is-visible {
+  animation: fade-up 0.8s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal,
+  .reveal.is-visible {
+    opacity: 1;
+    animation: none;
+  }
+}
+
+::selection {
+  background: var(--color-gold);
+  color: #000;
 }
