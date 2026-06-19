@@ -36,12 +36,12 @@ export default function AboutPage() {
   return (
     <>
       {/* Hero */}
-      <section className="bg-ink text-white">
+      <section className="bg-ink text-white theme-dark">
         <div className="mx-auto max-w-6xl px-6 py-24 text-center sm:px-10 sm:py-32">
           <p className="label">About us</p>
           <h1 className="mt-6 text-5xl sm:text-6xl">Why Believe</h1>
           <span className="mx-auto mt-8 block h-px w-20 bg-gold" aria-hidden />
-          <p className="mx-auto mt-8 max-w-xl text-lg leading-relaxed text-white/70">
+          <p className="mx-auto mt-8 max-w-xl text-lg leading-relaxed text-white/80">
             We build bespoke fitted furniture that feels like it was always part
             of the house — because it&apos;s made for one room, and one room
             only: yours.
@@ -83,7 +83,7 @@ export default function AboutPage() {
         <div className="grid gap-12 lg:grid-cols-3 lg:gap-10">
           {values.map((v, i) => (
             <Reveal key={v.title} delay={i * 80}>
-              <p className="font-serif text-4xl text-gold">0{i + 1}</p>
+              <p className="font-serif text-4xl text-gold-ink">0{i + 1}</p>
               <h3 className="mt-4 font-serif text-xl text-ink">{v.title}</h3>
               <span className="mt-5 block h-px w-12 bg-gold" aria-hidden />
               <p className="mt-5 text-sm leading-relaxed text-taupe">{v.body}</p>

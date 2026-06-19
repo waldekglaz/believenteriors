@@ -10,7 +10,8 @@
   /* Brand palette */
   --color-ink: #000000;
   --color-paper: #ffffff;
-  --color-gold: #d4af37;
+  --color-gold: #d4af37; /* bright gold — accents & text on dark backgrounds */
+  --color-gold-ink: #7b6620; /* darkened gold — AA-safe text on light backgrounds */
 
   /* Neutrals */
   --color-cream: #f9f7f4; /* neutral-50  */
@@ -51,7 +52,9 @@
   }
 }
 
-/* Uppercase gold label used across sections */
+/* Uppercase gold label used across sections.
+   Defaults to the darker, AA-safe gold for light backgrounds; containers
+   marked `.theme-dark` flip it back to the bright gold. */
 @layer components {
   .label {
     font-family: var(--font-sans);
@@ -59,6 +62,10 @@
     letter-spacing: 0.1em;
     font-size: 0.75rem;
     font-weight: 500;
+    color: var(--color-gold-ink);
+  }
+
+  .theme-dark .label {
     color: var(--color-gold);
   }
 }

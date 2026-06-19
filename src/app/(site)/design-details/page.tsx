@@ -23,12 +23,12 @@ export const metadata: Metadata = {
 export default function DesignDetailsPage() {
   return (
     <>
-      <section className="bg-ink text-white">
+      <section className="bg-ink text-white theme-dark">
         <div className="mx-auto max-w-6xl px-6 py-20 text-center sm:px-10 sm:py-28">
           <p className="label">Design details</p>
           <h1 className="mt-6 text-4xl sm:text-5xl">Crafted to the millimetre</h1>
           <span className="mx-auto mt-8 block h-px w-20 bg-gold" aria-hidden />
-          <p className="mx-auto mt-8 max-w-xl text-lg leading-relaxed text-white/70">
+          <p className="mx-auto mt-8 max-w-xl text-lg leading-relaxed text-white/80">
             Explore the construction, finishes and door styles that go into
             furniture built to last a lifetime.
           </p>
@@ -195,7 +195,7 @@ export default function DesignDetailsPage() {
               <h3 className="mt-6 text-base font-medium text-white">
                 {door.name}
               </h3>
-              <p className="mt-2 text-sm leading-relaxed text-white/60">
+              <p className="mt-2 text-sm leading-relaxed text-white/75">
                 {door.description}
               </p>
             </Reveal>

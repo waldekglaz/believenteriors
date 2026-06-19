@@ -5,7 +5,14 @@
       "name": "believe-interiors",
       "runtimeExecutable": "npm",
       "runtimeArgs": ["run", "dev"],
-      "port": 3000
+      "port": 3000,
+      "autoPort": true
+    },
+    {
+      "name": "believe-interiors-prod",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "start", "--", "-p", "4100"],
+      "port": 4100
     }
   ]
 }

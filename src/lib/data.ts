@@ -130,11 +130,14 @@ export const projects: Project[] = [
     title: "Media wall with fireplace",
     category: "Media walls",
     blurb: "Recessed electric fire framed by lit display niches.",
+    src: "/images/tv-wall.png",
   },
   {
-    title: "Lounge media unit",
+    title: "Cinema media wall",
     category: "Media walls",
-    blurb: "Push-to-open cabinetry concealing AV and storage.",
+    blurb:
+      "Custom-built entertainment wall with feature fireplace and ambient lighting.",
+    src: "/images/cinema-wall.png",
   },
   {
     title: "Angled-ceiling wardrobe",

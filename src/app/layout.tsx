@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import { Playfair_Display } from "next/font/google";
 import "./globals.css";
-import Header from "@/components/Header";
-import Footer from "@/components/Footer";
+import { COMING_SOON } from "@/lib/config";
+import ComingSoon from "@/components/ComingSoon";
 
 const playfair = Playfair_Display({
   variable: "--font-playfair",
@@ -11,19 +11,26 @@ const playfair = Playfair_Display({
   display: "swap",
 });
 
-export const metadata: Metadata = {
-  title: {
-    default: "Believe Interiors — Fitted Furniture & Bespoke Joinery",
-    template: "%s · Believe Interiors",
-  },
-  description:
-    "Quality craftsmanship. Timeless design. Built around you. Made-to-measure fitted wardrobes, kitchens, studies and media walls, professionally installed.",
-  openGraph: {
-    title: "Believe Interiors",
-    description: "Quality craftsmanship. Timeless design. Built around you.",
-    type: "website",
-  },
-};
+export const metadata: Metadata = COMING_SOON
+  ? {
+      title: "Coming Soon · Believe Interiors",
+      description:
+        "Believe Interiors — bespoke fitted furniture. Something beautiful is on its way.",
+      robots: { index: false, follow: false },
+    }
+  : {
+      title: {
+        default: "Believe Interiors — Fitted Furniture & Bespoke Joinery",
+        template: "%s · Believe Interiors",
+      },
+      description:
+        "Quality craftsmanship. Timeless design. Built around you. Made-to-measure fitted wardrobes, kitchens, studies and media walls, professionally installed.",
+      openGraph: {
+        title: "Believe Interiors",
+        description: "Quality craftsmanship. Timeless design. Built around you.",
+        type: "website",
+      },
+    };
 
 export default function RootLayout({
   children,
@@ -32,10 +39,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${playfair.variable} h-full antialiased`}>
-      <body className="flex min-h-full flex-col bg-paper text-umber">
-        <Header />
-        <main className="flex-1">{children}</main>
-        <Footer />
+      <body className="min-h-full bg-paper text-umber">
+        {/* When the coming-soon gate is on, the holding page replaces every
+            route (and renders without the site header/footer). */}
+        {COMING_SOON ? <ComingSoon /> : children}
       </body>
     </html>
   );

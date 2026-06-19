@@ -5,7 +5,7 @@ type Tone = "paper" | "cream" | "ink";
 const tones: Record<Tone, string> = {
   paper: "bg-paper text-umber",
   cream: "bg-cream text-umber",
-  ink: "bg-ink text-white",
+  ink: "bg-ink text-white theme-dark",
 };
 
 export default function Section({

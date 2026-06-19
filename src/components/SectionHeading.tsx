@@ -39,7 +39,7 @@ export default function SectionHeading({
       {intro && (
         <p
           className={`mt-6 text-base leading-relaxed ${
-            tone === "light" ? "text-white/70" : "text-taupe"
+            tone === "light" ? "text-white/80" : "text-taupe"
           }`}
         >
           {intro}

@@ -5,9 +5,9 @@ import { useState, type FormEvent } from "react";
 type Errors = Partial<Record<"name" | "email" | "phone" | "message", string>>;
 
 const fieldClass =
-  "w-full border border-white/20 bg-white/5 px-4 py-3 text-sm text-white placeholder:text-white/40 outline-none transition-colors focus:border-gold";
+  "w-full border border-white/20 bg-white/5 px-4 py-3 text-sm text-white placeholder:text-white/55 outline-none transition-colors focus:border-gold";
 const labelClass =
-  "mb-2 block text-xs font-medium uppercase tracking-[0.1em] text-white/70";
+  "mb-2 block text-xs font-medium uppercase tracking-[0.1em] text-white/80";
 
 function validate(data: {
   name: string;
@@ -76,7 +76,7 @@ export default function ContactForm() {
           </svg>
         </span>
         <h3 className="font-serif text-2xl text-white">Thank you</h3>
-        <p className="max-w-sm text-sm leading-relaxed text-white/70">
+        <p className="max-w-sm text-sm leading-relaxed text-white/80">
           Your message has been received. We&apos;ll review your space and come
           back to you with an initial estimate shortly.
         </p>
@@ -135,7 +135,7 @@ export default function ContactForm() {
         </div>
         <div>
           <label htmlFor="phone" className={labelClass}>
-            Phone <span className="text-white/40">(optional)</span>
+            Phone <span className="text-white/65">(optional)</span>
           </label>
           <input
             id="phone"
@@ -176,14 +176,14 @@ export default function ContactForm() {
 
       <div>
         <label htmlFor="photo" className={labelClass}>
-          Photo of your space <span className="text-white/40">(optional)</span>
+          Photo of your space <span className="text-white/65">(optional)</span>
         </label>
         <input
           id="photo"
           name="photo"
           type="file"
           accept="image/*"
-          className="block w-full text-sm text-white/70 file:mr-4 file:border file:border-gold file:bg-transparent file:px-4 file:py-2 file:text-xs file:uppercase file:tracking-[0.1em] file:text-gold hover:file:bg-gold hover:file:text-ink"
+          className="block w-full text-sm text-white/80 file:mr-4 file:border file:border-gold file:bg-transparent file:px-4 file:py-2 file:text-xs file:uppercase file:tracking-[0.1em] file:text-gold hover:file:bg-gold hover:file:text-ink"
         />
       </div>
 

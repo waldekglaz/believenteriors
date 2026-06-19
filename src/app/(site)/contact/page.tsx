@@ -13,12 +13,12 @@ export default function ContactPage() {
   return (
     <div className="grid lg:grid-cols-2">
       {/* Form — dark */}
-      <section className="bg-ink px-6 py-20 text-white sm:px-10 sm:py-28 lg:px-16">
+      <section className="bg-ink px-6 py-20 text-white theme-dark sm:px-10 sm:py-28 lg:px-16">
         <div className="mx-auto w-full max-w-xl lg:ml-auto lg:mr-0">
           <p className="label">Contact</p>
           <h1 className="mt-6 text-4xl sm:text-5xl">Get in touch</h1>
           <span className="mt-8 block h-px w-20 bg-gold" aria-hidden />
-          <p className="mt-8 leading-relaxed text-white/70">
+          <p className="mt-8 leading-relaxed text-white/80">
             Send us a message with a photo of your space and a brief idea of
             what you&apos;re looking for, and we&apos;ll provide an initial
             estimate.
