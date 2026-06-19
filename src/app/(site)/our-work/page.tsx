@@ -3,6 +3,7 @@ import Section from "@/components/Section";
 import SectionHeading from "@/components/SectionHeading";
 import Gallery from "@/components/Gallery";
 import GalleryMosaic from "@/components/GalleryMosaic";
+import GalleryLightbox from "@/components/GalleryLightbox";
 import Button from "@/components/Button";
 
 export const metadata: Metadata = {
@@ -41,6 +42,19 @@ export default function OurWorkPage() {
           className="mb-14"
         />
         <GalleryMosaic />
+      </Section>
+
+      {/* Gallery — Option C: click to expand (lightbox).
+          Keep whichever gallery you prefer and delete the others. */}
+      <Section tone="cream" className="border-t border-sand">
+        <SectionHeading
+          label="Our work"
+          title="Click to explore"
+          align="center"
+          intro="Select any image to view it enlarged, then step through the collection."
+          className="mb-14"
+        />
+        <GalleryLightbox />
       </Section>
 
       {/* Testimonial */}

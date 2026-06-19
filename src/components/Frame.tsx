@@ -23,6 +23,7 @@ export default function Frame({
   className = "",
   sizes = "(max-width: 768px) 100vw, 33vw",
   priority = false,
+  fit = "cover",
 }: {
   src?: string;
   alt: string;
@@ -34,6 +35,8 @@ export default function Frame({
   className?: string;
   sizes?: string;
   priority?: boolean;
+  /** "contain" shows the whole image (used by the lightbox); defaults to cover */
+  fit?: "cover" | "contain";
 }) {
   if (src) {
     return (
@@ -44,7 +47,7 @@ export default function Frame({
           fill
           sizes={sizes}
           priority={priority}
-          className="object-cover"
+          className={fit === "contain" ? "object-contain" : "object-cover"}
         />
       </div>
     );
