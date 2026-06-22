@@ -149,6 +149,36 @@ export const projects: Project[] = [
     category: "Kitchens",
     blurb: "Full-height larder units with pull-out internal storage.",
   },
+  {
+    title: "Island kitchen",
+    category: "Kitchens",
+    blurb: "A generous central island with breakfast-bar seating and storage.",
+  },
+  {
+    title: "Open-plan kitchen-diner",
+    category: "Kitchens",
+    blurb: "Cabinetry flowing seamlessly into a relaxed dining zone.",
+  },
+  {
+    title: "Classic in-frame kitchen",
+    category: "Kitchens",
+    blurb: "Timeless in-frame doors with brushed-brass cup handles.",
+  },
+  {
+    title: "Sliding-door wardrobe",
+    category: "Wardrobes",
+    blurb: "Mirrored sliding doors maximising light in a compact bedroom.",
+  },
+  {
+    title: "Boutique dressing room",
+    category: "Wardrobes",
+    blurb: "Display shelving, glass-fronted drawers and a dressing island.",
+  },
+  {
+    title: "Children's fitted wardrobe",
+    category: "Wardrobes",
+    blurb: "Adaptable hanging and shelving designed to grow with them.",
+  },
 ];
 
 export type FinishSwatch = {

@@ -8,7 +8,7 @@ import {
   type KeyboardEvent,
 } from "react";
 import Frame from "./Frame";
-import { projects } from "@/lib/data";
+import { projects as allProjects, type Project } from "@/lib/data";
 
 function Chevron({ dir }: { dir: "left" | "right" }) {
   return (
@@ -27,7 +27,13 @@ function Chevron({ dir }: { dir: "left" | "right" }) {
   );
 }
 
-export default function GalleryLightbox() {
+export default function GalleryLightbox({
+  items = allProjects,
+}: {
+  /** Projects to display; defaults to all. Pass a filtered list per page. */
+  items?: Project[];
+}) {
+  const projects = items;
   const [open, setOpen] = useState<number | null>(null);
   const triggerRef = useRef<HTMLButtonElement | null>(null);
   const dialogRef = useRef<HTMLDivElement | null>(null);
