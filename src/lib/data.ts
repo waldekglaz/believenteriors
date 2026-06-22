@@ -303,4 +303,8 @@ export const contactInfo = {
   phoneHref: "tel:+447700900123",
   whatsapp: "+44 7700 900123",
   whatsappHref: "https://wa.me/447700900123",
+  instagram: "@believeinteriors",
+  instagramHref: "https://instagram.com/believeinteriors",
+  facebook: "Believe Interiors",
+  facebookHref: "https://facebook.com/believeinteriors",
 };

@@ -14,7 +14,9 @@ export type IconName =
   | "shelf"
   | "email"
   | "phone"
-  | "whatsapp";
+  | "whatsapp"
+  | "instagram"
+  | "facebook";
 
 type IconProps = SVGProps<SVGSVGElement>;
 
@@ -123,6 +125,16 @@ const paths: Record<IconName, React.ReactNode> = {
       <path d="M3 21l1.6-4.5A8 8 0 1 1 8 19.5z" />
       <path d="M8.5 8.5c0 4 3 7 7 7 .8 0 1.3-.7.9-1.4l-1-1.4-2 .7-1.8-1.8.7-2-1.4-1c-.7-.4-1.4.1-1.4.9z" />
     </>
+  ),
+  instagram: (
+    <>
+      <rect x="2.5" y="2.5" width="19" height="19" rx="5" />
+      <circle cx="12" cy="12" r="4" />
+      <circle cx="17.4" cy="6.6" r="0.9" fill="currentColor" />
+    </>
+  ),
+  facebook: (
+    <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z" />
   ),
 };
 
