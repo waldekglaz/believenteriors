@@ -45,6 +45,8 @@ export default function KitchensPage() {
         label="Bespoke kitchens"
         title="Kitchens, made to measure"
         subtitle="Designed around how you cook, gather and live — and built to last a lifetime."
+        imageSrc="/images/kitchen-1.png"
+        imageAlt="A bespoke handcrafted kitchen with an island"
       />
 
       {/* Intro */}
@@ -69,6 +71,7 @@ export default function KitchensPage() {
             caption="Handcrafted"
             className="aspect-[4/3] w-full"
             sizes="(max-width: 1024px) 100vw, 50vw"
+            src="/images/kitchen-1.png"
           />
         </div>
       </Section>

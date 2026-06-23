@@ -107,9 +107,11 @@ export const projects: Project[] = [
     blurb: "Open shelving, hanging rails and a central island in oak.",
   },
   {
-    title: "Shaker kitchen",
+    title: "Contemporary galley kitchen",
     category: "Kitchens",
-    blurb: "In-frame shaker doors painted in a soft sage green.",
+    blurb:
+      "Gloss-finish cabinetry with quartz worktops and integrated appliances.",
+    src: "/images/kitchen-1.png",
   },
   {
     title: "Handleless kitchen",

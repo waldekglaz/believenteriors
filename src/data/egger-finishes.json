@@ -1,0 +1,3475 @@
+{
+  "source": "https://cutedgebond.co.uk/ (Cut Edge Bond) — price-list/1",
+  "brand": "Egger",
+  "fetchedAt": "2026-06-23",
+  "currency": "GBP",
+  "unit": "per board (length x width mm)",
+  "note": "Snapshot of third-party supplier data. Prices are indicative and change — confirm with the supplier before publishing.",
+  "count": 215,
+  "items": [
+    {
+      "code": "U104-ST9",
+      "name": "Alabaster White",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 108.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u104-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u104.webp"
+    },
+    {
+      "code": "U216-ST9",
+      "name": "Came Beige",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 108.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u216-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u216.webp"
+    },
+    {
+      "code": "U156-ST9",
+      "name": "Sand Beige",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 108.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u156-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u156.webp"
+    },
+    {
+      "code": "U201-ST9",
+      "name": "Pebble Grey",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u201-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u201.webp"
+    },
+    {
+      "code": "U222-ST9",
+      "name": "Crema Beige",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 109.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u222-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u222.webp"
+    },
+    {
+      "code": "U211-ST9",
+      "name": "Almond Beige",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 112.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u211-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u211.webp"
+    },
+    {
+      "code": "U540-ST9",
+      "name": "Denim Blue",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u540-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u540.webp"
+    },
+    {
+      "code": "U599-ST9",
+      "name": "Indigo Blue",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 120.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u599-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u599.webp"
+    },
+    {
+      "code": "U604-ST9",
+      "name": "Reed Green",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u604-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u604.webp"
+    },
+    {
+      "code": "U636-ST9",
+      "name": "Fjord Green",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u636-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u636.webp"
+    },
+    {
+      "code": "U638-ST9",
+      "name": "Sage Green",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u638-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u638.webp"
+    },
+    {
+      "code": "U699-ST9",
+      "name": "Fir Green",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u699-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u699.webp"
+    },
+    {
+      "code": "U702-ST9",
+      "name": "Cashmere Grey",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u702-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u702.webp"
+    },
+    {
+      "code": "U708-ST9",
+      "name": "Light Grey",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 108.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u708-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u708.webp"
+    },
+    {
+      "code": "U717-ST9",
+      "name": "Dakar Grey",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u717-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u717.webp"
+    },
+    {
+      "code": "U727-ST9",
+      "name": "Stone Grey",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u727-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u727.webp"
+    },
+    {
+      "code": "U732-ST9",
+      "name": "Dust Grey",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u732-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u732.webp"
+    },
+    {
+      "code": "U741-ST9",
+      "name": "Lava Grey",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 117.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u741-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u741.webp"
+    },
+    {
+      "code": "U750-ST9",
+      "name": "Taupe Grey",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u750-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u750.webp"
+    },
+    {
+      "code": "U763-ST9",
+      "name": "Pearl Grey",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u763-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u763.webp"
+    },
+    {
+      "code": "U775-ST9",
+      "name": "White-Grey",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u775-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u775.webp"
+    },
+    {
+      "code": "U780-ST9",
+      "name": "Monument Grey",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u780-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u780.webp"
+    },
+    {
+      "code": "U899-ST9",
+      "name": "Soft Black",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 118.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u899-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u899.webp"
+    },
+    {
+      "code": "U960-ST9",
+      "name": "Onyx Grey",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 118.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u960-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u960.webp"
+    },
+    {
+      "code": "U961-ST7",
+      "name": "Graphite Grey",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 115.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u961-st7.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u961.webp"
+    },
+    {
+      "code": "U968-ST9",
+      "name": "Carbon Grey",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 118.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u968-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u968.webp"
+    },
+    {
+      "code": "U999-ST7",
+      "name": "Black",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u999-st7.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u999.webp"
+    },
+    {
+      "code": "U115-ST9",
+      "name": "Carat Beige",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u115-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u115.webp"
+    },
+    {
+      "code": "U125-ST9",
+      "name": "Sand Yellow",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 127.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u125-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u125.webp"
+    },
+    {
+      "code": "U325-ST9",
+      "name": "Antique Rose",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 127.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u325-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u325.webp"
+    },
+    {
+      "code": "U335-ST9",
+      "name": "Rusty Red",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u335-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u335.webp"
+    },
+    {
+      "code": "U399-ST9",
+      "name": "Garnet Red",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 127.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u399-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u399.webp"
+    },
+    {
+      "code": "U502-ST9",
+      "name": "Misty Blue",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u502-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u502.webp"
+    },
+    {
+      "code": "U504-ST9",
+      "name": "Tyrolean Blue",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 127.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u504-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u504.webp"
+    },
+    {
+      "code": "U565-ST9",
+      "name": "Ocean Blue",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 127.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u565-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u565.webp"
+    },
+    {
+      "code": "U645-ST9",
+      "name": "Agave Green",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 127.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u645-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u645.webp"
+    },
+    {
+      "code": "U665-ST9",
+      "name": "Stone Green",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 127.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u665-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u665.webp"
+    },
+    {
+      "code": "U705-ST9",
+      "name": "Angora Grey",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u705-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u705.webp"
+    },
+    {
+      "code": "U707-ST9",
+      "name": "Silk Grey",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u707-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u707.webp"
+    },
+    {
+      "code": "U740-ST9",
+      "name": "Dark Taupe",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u740-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u740.webp"
+    },
+    {
+      "code": "U748-ST9",
+      "name": "Truffle Brown",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u748-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u748.webp"
+    },
+    {
+      "code": "U767-ST9",
+      "name": "Cubaint Grey",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u767-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u767.webp"
+    },
+    {
+      "code": "U788-ST9",
+      "name": "Arctic Grey",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u788-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u788.webp"
+    },
+    {
+      "code": "U818-ST9",
+      "name": "Dark Brown",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 134.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u818-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u818.webp"
+    },
+    {
+      "code": "U963-ST9",
+      "name": "Diamond Grey",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 118.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u963-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u963.webp"
+    },
+    {
+      "code": "W1000-ST9",
+      "name": "Premium White",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/w1000-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/w1000.webp"
+    },
+    {
+      "code": "W1100-ST9",
+      "name": "Alpine White",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/w1100-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/w1100.webp"
+    },
+    {
+      "code": "W1200-ST9",
+      "name": "Porcelain White",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/w1200-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/w1200.webp"
+    },
+    {
+      "code": "W980-SM",
+      "name": "Platinum White",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 101.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/w980-sm.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/w980.webp"
+    },
+    {
+      "code": "W980-ST7",
+      "name": "Platinum White",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 101.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/w980-st7.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/w980.webp"
+    },
+    {
+      "code": "U100-ST9",
+      "name": "Mussell Beige",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u100-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u100.webp"
+    },
+    {
+      "code": "U765-ST9",
+      "name": "Silver Grey",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u765-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u765.webp"
+    },
+    {
+      "code": "U999-ST19",
+      "name": "Black",
+      "group": "Unicolour Woodgrains",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u999-st19.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u999.webp"
+    },
+    {
+      "code": "U999-ST20",
+      "name": "Black",
+      "group": "Unicolour Woodgrains",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u999-st20.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u999.webp"
+    },
+    {
+      "code": "W1200-ST40",
+      "name": "Porcelain White",
+      "group": "Unicolour Woodgrains",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 155.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/w1200-st40.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/w1200.webp"
+    },
+    {
+      "code": "U201-ST40",
+      "name": "Pebble Grey",
+      "group": "Unicolour Woodgrains",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 155.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u201-st40.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u201.webp"
+    },
+    {
+      "code": "U502-ST40",
+      "name": "Misty Blue",
+      "group": "Unicolour Woodgrains",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 155.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u502-st40.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u502.webp"
+    },
+    {
+      "code": "U599-ST40",
+      "name": "Indigo Blue",
+      "group": "Unicolour Woodgrains",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 156.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u599-st40.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u599.webp"
+    },
+    {
+      "code": "U604-ST40",
+      "name": "Reed Green",
+      "group": "Unicolour Woodgrains",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 155.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u604-st40.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u604.webp"
+    },
+    {
+      "code": "U638-ST40",
+      "name": "Sage Green",
+      "group": "Unicolour Woodgrains",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 155.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u638-st40.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u638.webp"
+    },
+    {
+      "code": "U699-ST40",
+      "name": "Fir Green",
+      "group": "Unicolour Woodgrains",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 156.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u699-st40.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u699.webp"
+    },
+    {
+      "code": "U702-ST40",
+      "name": "Cashmere Grey",
+      "group": "Unicolour Woodgrains",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 154.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u702-st40.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u702.webp"
+    },
+    {
+      "code": "U708-ST40",
+      "name": "Light Grey",
+      "group": "Unicolour Woodgrains",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 154.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u708-st40.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u708.webp"
+    },
+    {
+      "code": "U732-ST40",
+      "name": "Dust Grey",
+      "group": "Unicolour Woodgrains",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 157.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u732-st40.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u732.webp"
+    },
+    {
+      "code": "U767-ST40",
+      "name": "Cubanit Grey",
+      "group": "Unicolour Woodgrains",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 157.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u767-st40.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u767.webp"
+    },
+    {
+      "code": "U780-ST40",
+      "name": "Monument Grey",
+      "group": "Unicolour Woodgrains",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 157.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u780-st40.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u780.webp"
+    },
+    {
+      "code": "U961-ST40",
+      "name": "Graphite Grey",
+      "group": "Unicolour Woodgrains",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 158.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u961-st40.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u961.webp"
+    },
+    {
+      "code": "U999-ST40",
+      "name": "Black",
+      "group": "Unicolour Woodgrains",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 158.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u999-st40.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u999.webp"
+    },
+    {
+      "code": "H3154-ST36",
+      "name": "Dark Brown Charleston Oak",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 161.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3154-st36.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3154.webp"
+    },
+    {
+      "code": "H1250-ST36",
+      "name": "Navarra Ash",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 153.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1250-st36.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1250.webp"
+    },
+    {
+      "code": "H1336-ST37",
+      "name": "Sand Grey Glazed Halifax Oak",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 169.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1336-st37.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1336.webp"
+    },
+    {
+      "code": "H1377-ST36",
+      "name": "Sand Orleans Oak",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 155.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1377-st36.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1377.webp"
+    },
+    {
+      "code": "H1379-ST36",
+      "name": "Brown Orleans Oak",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 155.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1379-st36.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1379.webp"
+    },
+    {
+      "code": "H1486-ST36",
+      "name": "Pasadena Pine",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 154.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1486-st36.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1486.webp"
+    },
+    {
+      "code": "H1142-ST36",
+      "name": "Brown Sacramento Oak",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 154.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1142-st36.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1142.webp"
+    },
+    {
+      "code": "H3176-ST37",
+      "name": "Pewter Halifax Oak",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 169.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3176-st37.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3176.webp"
+    },
+    {
+      "code": "H1143-ST36",
+      "name": "Grey Sacramento Oak",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 155.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1143-st36.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1143.webp"
+    },
+    {
+      "code": "H1367-ST40",
+      "name": "Light Natural Casella Oak",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18.6,
+          "price": 169.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1367-st40.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1367.webp"
+    },
+    {
+      "code": "H1369-ST40",
+      "name": "Marone Casella Oak",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18.6,
+          "price": 171.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1369-st40.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1369.webp"
+    },
+    {
+      "code": "H1186-ST37",
+      "name": "Dark Brown Garrone Oak",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 171.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1186-st37.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1186.webp"
+    },
+    {
+      "code": "H1384-ST40",
+      "name": "White Casella Oak",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18.6,
+          "price": 169.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1384-st40.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1384.webp"
+    },
+    {
+      "code": "H1385-ST40",
+      "name": "Natural Casella Oak",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18.6,
+          "price": 169.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1385-st40.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1385.webp"
+    },
+    {
+      "code": "H1386-ST40",
+      "name": "Brown Casella Oak",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18.6,
+          "price": 169.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1386-st40.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1386.webp"
+    },
+    {
+      "code": "H3311-ST28",
+      "name": "Bleached Cuneo Oak",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 169.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3311-st28.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3311.webp"
+    },
+    {
+      "code": "H3317-ST28",
+      "name": "Brown Cuneo Oak",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 169.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3317-st28.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3317.webp"
+    },
+    {
+      "code": "H1176-ST37",
+      "name": "White Halifax Oak",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 169.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1176-st37.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1176.webp"
+    },
+    {
+      "code": "H1180-ST37",
+      "name": "Natural Halifax Oak",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 169.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1180-st37.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1180.webp"
+    },
+    {
+      "code": "H1181-ST37",
+      "name": "Tobacco Halifax Oak",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 169.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1181-st37.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1181.webp"
+    },
+    {
+      "code": "H3180-ST37",
+      "name": "Brown Halifax Oak",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 169.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3180-st37.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3180.webp"
+    },
+    {
+      "code": "H3309-ST28",
+      "name": "Sand Gladstone Oak",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 169.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3309-st28.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3309.webp"
+    },
+    {
+      "code": "H3325-ST28",
+      "name": "Tobacco Gladstone Oak",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 169.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3325-st28.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3325.webp"
+    },
+    {
+      "code": "H3326-ST28",
+      "name": "Grey-Beige Gladstone Oak",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 169.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3326-st28.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3326.webp"
+    },
+    {
+      "code": "H3335-ST28",
+      "name": "White Gladstone Oak",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 169.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3335-st28.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3335.webp"
+    },
+    {
+      "code": "H1372-ST22",
+      "name": "Natural Aragon Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1372-st22.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1372.webp"
+    },
+    {
+      "code": "H3195-ST19",
+      "name": "White Fineline",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 139.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3195-st19.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3195.webp"
+    },
+    {
+      "code": "H3382-ST9",
+      "name": "Light Winchester Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 122.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3382-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3382.webp"
+    },
+    {
+      "code": "H1145-ST10",
+      "name": "Natural Bardolino Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1145-st10.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1145.webp"
+    },
+    {
+      "code": "H1146-ST10",
+      "name": "Grey Bardolino Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 8,
+          "price": 116.95
+        },
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1146-st10.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1146.webp"
+    },
+    {
+      "code": "H3704-ST15",
+      "name": "Tobacco Aida Walnut",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 128.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3704-st15.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3704.webp"
+    },
+    {
+      "code": "H1277-ST9",
+      "name": "Light Lakeland Acacia",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 128.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1277-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1277.webp"
+    },
+    {
+      "code": "H1313-ST10",
+      "name": "Grey Brown Whiteriver Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1313-st10.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1313.webp"
+    },
+    {
+      "code": "H1330-ST10",
+      "name": "Vintage Santa Fe Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1330-st10.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1330.webp"
+    },
+    {
+      "code": "H1223-ST19",
+      "name": "Seville Ash",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 145.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1223-st19.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1223.webp"
+    },
+    {
+      "code": "H1334-ST9",
+      "name": "Light Sorano Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 8,
+          "price": 115.95
+        },
+        {
+          "thickness": 18,
+          "price": 127.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1334-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1334.webp"
+    },
+    {
+      "code": "H1371-ST19",
+      "name": "Grey Beige Rift Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 139.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1371-st19.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1371.webp"
+    },
+    {
+      "code": "H1225-ST12",
+      "name": "Trondheim Ash",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1225-st12.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1225.webp"
+    },
+    {
+      "code": "H1399-ST10",
+      "name": "Truffle Brown Denver Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1399-st10.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1399.webp"
+    },
+    {
+      "code": "H1242-ST10",
+      "name": "Natural Sheffiled Acacia",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1242-st10.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1242.webp"
+    },
+    {
+      "code": "H1714-ST19",
+      "name": "Lincoln Walnut",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 152.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1714-st19.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1714.webp"
+    },
+    {
+      "code": "H1303-ST12",
+      "name": "Brown Belmont Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1303-st12.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1303.webp"
+    },
+    {
+      "code": "H1307-ST19",
+      "name": "Brown Warmia Walnut",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 142.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1307-st19.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1307.webp"
+    },
+    {
+      "code": "H3090-ST22",
+      "name": "Shorewood",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 8,
+          "price": 115.75
+        },
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3090-st22.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3090.webp"
+    },
+    {
+      "code": "H3131-ST12",
+      "name": "Natural Davos Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3131-st12.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3131.webp"
+    },
+    {
+      "code": "H3133-ST12",
+      "name": "Truffle Brown Davos Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3133-st12.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3133.webp"
+    },
+    {
+      "code": "H3157-ST12",
+      "name": "Vicenza Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3157-st12.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3157.webp"
+    },
+    {
+      "code": "H3158-ST19",
+      "name": "Grey Vicenza Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3158-st19.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3158.webp"
+    },
+    {
+      "code": "H3170-ST12",
+      "name": "Natural Kendal Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3170-st12.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3170.webp"
+    },
+    {
+      "code": "H3171-ST12",
+      "name": "Oiled Kendal Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3171-st12.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3171.webp"
+    },
+    {
+      "code": "H3190-ST19",
+      "name": "Anthracite Fineline Metallic",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 155.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3190-st19.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3190.webp"
+    },
+    {
+      "code": "H3303-ST10",
+      "name": "Natural Hamilton Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3303-st10.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3303.webp"
+    },
+    {
+      "code": "H3331-ST10",
+      "name": "Natural Nebraska Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3331-st10.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3331.webp"
+    },
+    {
+      "code": "H3332-ST10",
+      "name": "Grey Nebraska Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 8,
+          "price": 123.95
+        },
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3332-st10.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3332.webp"
+    },
+    {
+      "code": "H3349-ST19",
+      "name": "Kaisersberg Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 139.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3349-st19.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3349.webp"
+    },
+    {
+      "code": "H3368-ST9",
+      "name": "Natural Lancaster Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 8,
+          "price": 115.95
+        },
+        {
+          "thickness": 18,
+          "price": 125.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3368-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3368.webp"
+    },
+    {
+      "code": "H3422-ST19",
+      "name": "Brown Grey Lacquered Pine",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 139.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3422-st19.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3422.webp"
+    },
+    {
+      "code": "H3700-ST10",
+      "name": "Natural Pacific Walnut",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3700-st10.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3700.webp"
+    },
+    {
+      "code": "H3702-ST10",
+      "name": "Tobacco Pacific Walnut",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3702-st10.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3702.webp"
+    },
+    {
+      "code": "H3710-ST12",
+      "name": "Natural Carini Walnut",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3710-st12.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3710.webp"
+    },
+    {
+      "code": "H3730-ST10",
+      "name": "Natural Hickory",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3730-st10.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3730.webp"
+    },
+    {
+      "code": "H3734-ST9",
+      "name": "Natural Dijon Walnut",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 8,
+          "price": 115.95
+        },
+        {
+          "thickness": 18,
+          "price": 125.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3734-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3734.webp"
+    },
+    {
+      "code": "H1715-ST12",
+      "name": "Parona Walnut",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1715-st12.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1715.webp"
+    },
+    {
+      "code": "H1732-ST9",
+      "name": "Sand Birch",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 126.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1732-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1732.webp"
+    },
+    {
+      "code": "H2033-ST10",
+      "name": "Dark Hunton Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h2033-st10.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h2033.webp"
+    },
+    {
+      "code": "H1318-ST10",
+      "name": "Natural Wild Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1318-st10.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1318.webp"
+    },
+    {
+      "code": "H3003-ST19",
+      "name": "Norwich Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 139.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3003-st19.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3003.webp"
+    },
+    {
+      "code": "H3043-ST12",
+      "name": "Dark Brown Eucalyptus",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3043-st12.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3043.webp"
+    },
+    {
+      "code": "H3198-ST19",
+      "name": "Dark Grey Fineline",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 140.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3198-st19.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3198.webp"
+    },
+    {
+      "code": "H309-ST12",
+      "name": "Brown Tonsberg Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 140.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h309-st12.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h309.webp"
+    },
+    {
+      "code": "H3146-ST19",
+      "name": "Beige Grey Lorenzo Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 149.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3146-st19.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3146.webp"
+    },
+    {
+      "code": "H1357-ST10",
+      "name": "Grey Beige Spree Oak",
+      "group": "Wood Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1357-st10.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1357.webp"
+    },
+    {
+      "code": "F187-ST9",
+      "name": "Dark Grey Chicago Concrete",
+      "group": "Material Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 140.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f187-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/f187.webp"
+    },
+    {
+      "code": "F186-ST9",
+      "name": "Light Grey Chicago Concrete",
+      "group": "Material Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 138.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f186-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/f186.webp"
+    },
+    {
+      "code": "F416-ST10",
+      "name": "Beige Textile",
+      "group": "Material Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f416-st10.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/f416.webp"
+    },
+    {
+      "code": "F237-ST76",
+      "name": "Cupria Slate",
+      "group": "Material Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 155.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f237-st76.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/f237.webp"
+    },
+    {
+      "code": "F812-ST9",
+      "name": "White Levanto Marble",
+      "group": "Material Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f812-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/f812.webp"
+    },
+    {
+      "code": "F800-ST9",
+      "name": "Crystal Marble",
+      "group": "Material Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 142.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f800-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/f800.webp"
+    },
+    {
+      "code": "F243-ST76",
+      "name": "Light Grey Candela Marble",
+      "group": "Material Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 155.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f243-st76.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/f243.webp"
+    },
+    {
+      "code": "F244-ST76",
+      "name": "Dark Candela Marble",
+      "group": "Material Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 154.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f244-st76.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/f244.webp"
+    },
+    {
+      "code": "F417-ST10",
+      "name": "Grey Textile",
+      "group": "Material Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f417-st10.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/f417.webp"
+    },
+    {
+      "code": "F433-ST10",
+      "name": "Anthracite Linen",
+      "group": "Material Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f433-st10.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/f433.webp"
+    },
+    {
+      "code": "F206-ST9",
+      "name": "Black Pietra Grigia",
+      "group": "Material Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 144.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f206-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/f206.webp"
+    },
+    {
+      "code": "F500-ST20",
+      "name": "Metallic Inox",
+      "group": "Material Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 153.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f500-st20.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/f500.webp"
+    },
+    {
+      "code": "F765-ST20",
+      "name": "Brushed Silvergrey",
+      "group": "Material Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 135.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f765-st20.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/f765.webp"
+    },
+    {
+      "code": "F527-ST20",
+      "name": "Golden Brushed Metal",
+      "group": "Material Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 155.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f527-st20.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/f527.webp"
+    },
+    {
+      "code": "F528-ST20",
+      "name": "Bronze Brushed Metal",
+      "group": "Material Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 155.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f528-st20.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/f528.webp"
+    },
+    {
+      "code": "F235-ST76",
+      "name": "Scivaro Slate",
+      "group": "Material Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 155.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f235-st76.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/f235.webp"
+    },
+    {
+      "code": "F323-ST20",
+      "name": "Cobra Bronze",
+      "group": "Material Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 154.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f323-st20.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/f323.webp"
+    },
+    {
+      "code": "F422-ST10",
+      "name": "White Linen",
+      "group": "Material Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 142.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f422-st10.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/f422.webp"
+    },
+    {
+      "code": "F424-ST10",
+      "name": "Brown Linen",
+      "group": "Material Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 142.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f424-st10.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/f424.webp"
+    },
+    {
+      "code": "F634-ST76",
+      "name": "Grey Canvas",
+      "group": "Material Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 153.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f634-st76.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/f634.webp"
+    },
+    {
+      "code": "F638-ST10",
+      "name": "Chromix Silver",
+      "group": "Material Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 152.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f638-st10.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/f638.webp"
+    },
+    {
+      "code": "F434-ST10",
+      "name": "Cubanite Steelbrush",
+      "group": "Material Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 153.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f434-st10.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/f434.webp"
+    },
+    {
+      "code": "U399-PM",
+      "name": "Garnet Red",
+      "group": "Perfect Sense Matt",
+      "core": "MDF",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 19,
+          "price": 242.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u399-pm.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u399.webp"
+    },
+    {
+      "code": "U705-PM",
+      "name": "Angora Grey",
+      "group": "Perfect Sense Matt",
+      "core": "MDF",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 19,
+          "price": 244.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u705-pm.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u705.webp"
+    },
+    {
+      "code": "U767-PM",
+      "name": "Cubanit Grey",
+      "group": "Perfect Sense Matt",
+      "core": "MDF",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 19,
+          "price": 244.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u767-pm.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u767.webp"
+    },
+    {
+      "code": "U599-PM",
+      "name": "Indigo Blue",
+      "group": "Perfect Sense Matt",
+      "core": "MDF",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 19,
+          "price": 244.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u599-pm.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u599.webp"
+    },
+    {
+      "code": "U702-PM",
+      "name": "Cashmere Grey",
+      "group": "Perfect Sense Matt",
+      "core": "MDF",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 19,
+          "price": 244.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u702-pm.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u702.webp"
+    },
+    {
+      "code": "U708-PM",
+      "name": "Light Grey",
+      "group": "Perfect Sense Matt",
+      "core": "MDF",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 19,
+          "price": 244.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u708-pm.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u708.webp"
+    },
+    {
+      "code": "U727-PM",
+      "name": "Stone Grey",
+      "group": "Perfect Sense Matt",
+      "core": "MDF",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 19,
+          "price": 244.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u727-pm.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u727.webp"
+    },
+    {
+      "code": "U732-PM",
+      "name": "Dust Grey",
+      "group": "Perfect Sense Matt",
+      "core": "MDF",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 19,
+          "price": 244.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u732-pm.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u732.webp"
+    },
+    {
+      "code": "U961-PM",
+      "name": "Graphite Grey",
+      "group": "Perfect Sense Matt",
+      "core": "MDF",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 19,
+          "price": 245.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u961-pm.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u961.webp"
+    },
+    {
+      "code": "U999-PM",
+      "name": "Black",
+      "group": "Perfect Sense Matt",
+      "core": "MDF",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 19,
+          "price": 245.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u999-pm.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u999.webp"
+    },
+    {
+      "code": "W1000-PM",
+      "name": "Premium White",
+      "group": "Perfect Sense Matt",
+      "core": "MDF",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 19,
+          "price": 244.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/w1000-pm.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/w1000.webp"
+    },
+    {
+      "code": "W1100-PM",
+      "name": "Alpine White",
+      "group": "Perfect Sense Matt",
+      "core": "MDF",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 19,
+          "price": 244.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/w1100-pm.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/w1100.webp"
+    },
+    {
+      "code": "U702-PG",
+      "name": "Cashmere Grey",
+      "group": "Perfect Sense Gloss",
+      "core": "MDF",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 19,
+          "price": 245.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u702-pg.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u702.webp"
+    },
+    {
+      "code": "U708-PG",
+      "name": "Light Grey",
+      "group": "Perfect Sense Gloss",
+      "core": "MDF",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 19,
+          "price": 245.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u708-pg.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u708.webp"
+    },
+    {
+      "code": "U732-PG",
+      "name": "Dust Grey",
+      "group": "Perfect Sense Gloss",
+      "core": "MDF",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 19,
+          "price": 245.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u732-pg.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u732.webp"
+    },
+    {
+      "code": "U999-PG",
+      "name": "Black",
+      "group": "Perfect Sense Gloss",
+      "core": "MDF",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 19,
+          "price": 245.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u999-pg.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u999.webp"
+    },
+    {
+      "code": "W1100-PG",
+      "name": "Alpine White",
+      "group": "Perfect Sense Gloss",
+      "core": "MDF",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 19,
+          "price": 245.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/w1100-pg.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/w1100.webp"
+    },
+    {
+      "code": "U750-TM9",
+      "name": "Taupe Grey",
+      "group": "TM Range",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 160.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u750-tm9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u750.webp"
+    },
+    {
+      "code": "U960-TM9",
+      "name": "Onyx Grey",
+      "group": "TM Range",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 160.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u960-tm9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u960.webp"
+    },
+    {
+      "code": "U968-TM9",
+      "name": "Carbon Grey",
+      "group": "TM Range",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 160.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u968-tm9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u968.webp"
+    },
+    {
+      "code": "U201-TM9",
+      "name": "Pebble Grey",
+      "group": "TM Range",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 160.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u201-tm9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u201.webp"
+    },
+    {
+      "code": "U599-TM9",
+      "name": "Indigo Blue",
+      "group": "TM Range",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 160.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u599-tm9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u599.webp"
+    },
+    {
+      "code": "U604-TM9",
+      "name": "Reed Green",
+      "group": "TM Range",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 160.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u604-tm9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u604.webp"
+    },
+    {
+      "code": "U699-TM9",
+      "name": "Fir Green",
+      "group": "TM Range",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 160.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u699-tm9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u699.webp"
+    },
+    {
+      "code": "U780-TM9",
+      "name": "Monument Grey",
+      "group": "TM Range",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 160.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u780-tm9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u780.webp"
+    },
+    {
+      "code": "U899-TM9",
+      "name": "Soft Black",
+      "group": "TM Range",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 160.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u899-tm9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u899.webp"
+    },
+    {
+      "code": "W1100-TM9",
+      "name": "Alpine White",
+      "group": "TM Range",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 160.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/w1100-tm9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/w1100.webp"
+    },
+    {
+      "code": "H1227-TM12",
+      "name": "Brown Abano Ash",
+      "group": "TM Range",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 182.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1227-tm12.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1227.webp"
+    },
+    {
+      "code": "H1228-TM12",
+      "name": "Anthracite Abano Ash",
+      "group": "TM Range",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 185.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1228-tm12.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h1228.webp"
+    },
+    {
+      "code": "H3041-TM12",
+      "name": "Natural Eucalyptus",
+      "group": "TM Range",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 185.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3041-tm12.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/h3041.webp"
+    },
+    {
+      "code": "U999-TM28",
+      "name": "Black",
+      "group": "TM Range",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 212.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u999-tm28.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/u999.webp"
+    },
+    {
+      "code": "W1000 ST40",
+      "name": "Premium White",
+      "group": "Unicolour Woodgrains",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 152.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/w1000-st40.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/6.png"
+    },
+    {
+      "code": "U220 ST9",
+      "name": "Soft Beige",
+      "group": "Uni Colour",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u220-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/ar_16_9__cbe085dc-dbe1-4213-9d66-16f5cd2ff31d.webp"
+    },
+    {
+      "code": "H1388 ST40",
+      "name": "Sand Casella Oak",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 169.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1388-st40.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/ar_16_9__eeaf93e9-5f10-4318-bf49-aa6600bc404e.webp"
+    },
+    {
+      "code": "H1247 ST17 ",
+      "name": "Graphite Sheffield Acacia",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 139.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1247-st17-.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/ar_16_9__d76b880b-6866-4966-9e79-0c8b91d45bb0.webp"
+    },
+    {
+      "code": "H1316 ST17",
+      "name": "Bookmatch Oak",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 149.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1316-st17.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/ar_16_9__97a9d4c5-6326-4fc3-a8e8-3d29cc2348b1.webp"
+    },
+    {
+      "code": "H1708 ST17 ",
+      "name": "Brighton Chestnut",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 133.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h1708-st17-.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/ar_16_9__e02d721a-6d58-4995-9f63-b7f44e81b325.webp"
+    },
+    {
+      "code": "H3787 ST19 ",
+      "name": "Brown Bolivar Wood",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 145.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h3787-st19-.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/ar_16_9__c09ede31-5018-427e-b310-17c997d49b7f.webp"
+    },
+    {
+      "code": "H7586 ST17 ",
+      "name": "Tobacco Alba Walnut",
+      "group": "Feelwood",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 136.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/h7586-st17-.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/ar_16_9__35056a4e-c287-411e-be72-46eaf078c992.webp"
+    },
+    {
+      "code": "F037 ST76 ",
+      "name": "Taormina Travertine",
+      "group": "Material Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 155.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f037-st76-.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/ar_16_9__69474244-1edb-4776-9f04-95ea6651c32f.webp"
+    },
+    {
+      "code": "F128 PA Black Ambiance Granite",
+      "name": "Black Ambiance Granite",
+      "group": "Material Reproductions",
+      "core": "MDF",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 19,
+          "price": 259.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f128-pa-black-ambiance-granite.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/ar_16_9__26b44f60-25bc-46c3-9977-f2f2081b4748.webp"
+    },
+    {
+      "code": "F129 PA ",
+      "name": "Beige Ambiance Granite",
+      "group": "Material Reproductions",
+      "core": "MDF",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 19,
+          "price": 258.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f129-pa-.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/ar_16_9__4fbcdb83-fcbe-45b3-85d8-d10cc28e72d0.webp"
+    },
+    {
+      "code": "F579 ST20 ",
+      "name": "Champagne Crossed Metal",
+      "group": "Material Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 156.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f579-st20-.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/ar_16_9__2e930c5e-2f63-4c04-aebf-eb9dd1fd8887.webp"
+    },
+    {
+      "code": "F661 ST76 ",
+      "name": "Sand Beige Calcit Stone",
+      "group": "Material Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 156.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f661-st76-.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/ar_16_9__faf98927-37ba-4818-8b05-d21c36136a84.webp"
+    },
+    {
+      "code": "F662 ST76 ",
+      "name": "Pebble Grey Calcit Stone",
+      "group": "Material Reproductions",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 156.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/f662-st76-.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/ar_16_9__d3d0cd38-44f5-48c1-9062-996634624111.webp"
+    },
+    {
+      "code": "U250 ST9",
+      "name": "Caramel Beige",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 114.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u250-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/ar_16_9__74bedc3b-583f-4ef1-96f2-0e532c9f1d35.webp"
+    },
+    {
+      "code": "U250 TM",
+      "name": "Caramel Beige",
+      "group": "TM Range",
+      "core": "Chipabord",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 160.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u250-tm.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/ar_16_9__99169225-9111-4550-b269-8f7432cf7fad.webp"
+    },
+    {
+      "code": "U398 TM ",
+      "name": "Dark Berry",
+      "group": "TM Range",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 160.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u398-tm-.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/ar_16_9__70d2e196-60cc-4b54-991e-ad2c37a7c595.webp"
+    },
+    {
+      "code": "U444 ST9 ",
+      "name": "Cassis",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 113.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u444-st9-.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/ar_16_9__09f22c19-d847-4f08-9c06-f50405bd9e9d.webp"
+    },
+    {
+      "code": "U590 TM ",
+      "name": "Deep Blue",
+      "group": "TM Range",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 160.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u590-tm-.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/ar_16_9__c9e4875c-1daa-4f3b-b3ba-1926b1890fd8.webp"
+    },
+    {
+      "code": "U604 TM ",
+      "name": "Reed Green",
+      "group": "TM Range",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 160.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u604-tm-.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/ar_16_9__444ff0c6-5c08-4203-a917-c09212821c8e.webp"
+    },
+    {
+      "code": "U669 ST9 ",
+      "name": "Estate Green",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 114.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u669-st9-.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/ar_16_9__4e77b7f1-6b3a-4b33-97ca-532f3eb305ce.webp"
+    },
+    {
+      "code": "U755 ST9",
+      "name": "Havanna Grey",
+      "group": "Uni Colours",
+      "core": "Chipboard",
+      "boardLength": 2800,
+      "boardWidth": 2070,
+      "prices": [
+        {
+          "thickness": 18,
+          "price": 114.75
+        }
+      ],
+      "swatchUrl": "/images/finishes/egger/u755-st9.webp",
+      "remoteUrl": "https://stv2cutedgebondimg.blob.core.windows.net/prod/price-list/egger/mini/ar_16_9__7cf4f131-6f69-4f48-b651-b3e1fdfdabc5.webp"
+    }
+  ]
+}

@@ -4,15 +4,10 @@ import SectionHeading from "@/components/SectionHeading";
 import Frame from "@/components/Frame";
 import Reveal from "@/components/Reveal";
 import Icon from "@/components/Icons";
-import ColorSwatch from "@/components/ColorSwatch";
+import FinishesGallery from "@/components/FinishesGallery";
 import DoorIllustration from "@/components/DoorIllustration";
-import {
-  constructionDetails,
-  standardFinishes,
-  premiumFinishes,
-  shakerDoors,
-  slabDoors,
-} from "@/lib/data";
+import { constructionDetails, shakerDoors, slabDoors } from "@/lib/data";
+import { finishesByGroup } from "@/lib/materials";
 
 export const metadata: Metadata = {
   title: "Design Details",
@@ -88,34 +83,15 @@ export default function DesignDetailsPage() {
           label="Carcass finish options"
           title="Choose your colour & texture"
           align="center"
-          intro="From smooth matt to woodgrain and textured finishes — a palette to suit every room."
+          intro="Boards are supplied in the full Egger decor range — from smooth matt to woodgrain and textured finishes, in a colour to suit every room."
         />
 
-        <div className="mt-16">
-          <div className="flex items-baseline justify-between border-b border-sand pb-4">
-            <h3 className="font-serif text-2xl text-ink">ST9 Smooth Matt</h3>
-            <span className="label">Standard range</span>
-          </div>
-          <div className="mt-8 grid grid-cols-2 gap-x-6 gap-y-8 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
-            {standardFinishes.map((s) => (
-              <ColorSwatch key={`${s.code}-${s.name}`} {...s} />
-            ))}
-          </div>
-        </div>
-
-        <div className="mt-20">
-          <div className="flex items-baseline justify-between border-b border-sand pb-4">
-            <h3 className="font-serif text-2xl text-ink">
-              Woodgrain &amp; Textured
-            </h3>
-            <span className="label">Premium range</span>
-          </div>
-          <div className="mt-8 grid grid-cols-2 gap-x-6 gap-y-8 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
-            {premiumFinishes.map((s) => (
-              <ColorSwatch key={`${s.code}-${s.name}`} {...s} />
-            ))}
-          </div>
-        </div>
+        <FinishesGallery
+          groups={Object.entries(finishesByGroup()).map(([name, items]) => ({
+            name,
+            items,
+          }))}
+        />
       </Section>
 
       {/* Door designs */}
