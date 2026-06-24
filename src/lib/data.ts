@@ -228,6 +228,8 @@ export type DoorStyle = {
   panels: number;
   /** "equal" | "lower" | "centred" | "topBottom" — placement hint */
   layout: "single" | "lower" | "centred" | "equal" | "topBottom" | "slab";
+  /** Optional photo/render; falls back to the line illustration when absent. */
+  image?: string;
 };
 
 export const shakerDoors: DoorStyle[] = [
@@ -236,30 +238,35 @@ export const shakerDoors: DoorStyle[] = [
     description: "A classic full-height shaker frame — clean and versatile.",
     panels: 1,
     layout: "single",
+    image: "/images/doors/door-single.png",
   },
   {
     name: "Mid rail lower",
     description: "A single rail set low for a grounded, contemporary look.",
     panels: 2,
     layout: "lower",
+    image: "/images/doors/door-mid-rail-lower.png",
   },
   {
     name: "Mid rail centred",
     description: "A balanced central rail dividing the door evenly.",
     panels: 2,
     layout: "centred",
+    image: "/images/doors/door-mid-rail-center.png",
   },
   {
     name: "Three panel equal",
     description: "Two rails creating three equal panels with rhythm and depth.",
     panels: 3,
     layout: "equal",
+    image: "/images/doors/door-three-panel-equal.png",
   },
   {
     name: "Three panel top & bottom square",
     description: "Square panels top and bottom framing a tall central panel.",
     panels: 3,
     layout: "topBottom",
+    image: "/images/doors/door-three-square.png",
   },
 ];
 

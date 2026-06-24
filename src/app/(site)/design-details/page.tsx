@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Section from "@/components/Section";
 import SectionHeading from "@/components/SectionHeading";
 import Frame from "@/components/Frame";
@@ -106,7 +107,19 @@ export default function DesignDetailsPage() {
           {shakerDoors.map((door, i) => (
             <Reveal as="li" key={door.name} delay={i * 60} className="text-center">
               <div className="mx-auto w-full max-w-[140px]">
-                <DoorIllustration layout={door.layout} className="h-auto w-full" />
+                {door.image ? (
+                  <div className="relative mx-auto aspect-[1/4] w-full">
+                    <Image
+                      src={door.image}
+                      alt={`${door.name} shaker door`}
+                      fill
+                      sizes="140px"
+                      className="object-contain"
+                    />
+                  </div>
+                ) : (
+                  <DoorIllustration layout={door.layout} className="h-auto w-full" />
+                )}
               </div>
               <h3 className="mt-6 text-base font-medium text-ink">{door.name}</h3>
               <p className="mt-2 text-sm leading-relaxed text-taupe">
