@@ -12,12 +12,16 @@ export default function PageHero({
   subtitle,
   imageSrc,
   imageAlt = "",
+  secondaryHref = "/kitchens",
+  secondaryLabel = "Explore kitchens",
 }: {
   label: string;
   title: string;
   subtitle: string;
   imageSrc?: string;
   imageAlt?: string;
+  secondaryHref?: string;
+  secondaryLabel?: string;
 }) {
   return (
     <section className="theme-dark relative isolate flex min-h-[68vh] items-center justify-center overflow-hidden bg-ink text-white">
@@ -72,8 +76,8 @@ export default function PageHero({
           <Button href="/contact" variant="gold">
             Get in touch
           </Button>
-          <Button href="/our-work" variant="ghost-light">
-            View our work
+          <Button href={secondaryHref} variant="ghost-light">
+            {secondaryLabel}
           </Button>
         </div>
       </div>

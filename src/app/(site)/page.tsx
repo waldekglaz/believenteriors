@@ -40,8 +40,8 @@ export default function Home() {
             <Button href="/contact" variant="gold">
               Get in touch
             </Button>
-            <Button href="/our-work" variant="ghost-light">
-              View our work
+            <Button href="/kitchens" variant="ghost-light">
+              Explore kitchens
             </Button>
           </div>
         </div>

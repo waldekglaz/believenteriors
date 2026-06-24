@@ -47,6 +47,8 @@ export default function WardrobesPage() {
         subtitle="From floor-to-ceiling storage to walk-in dressing rooms, made to measure for your space."
         imageSrc="/images/hero-image.png"
         imageAlt="A bespoke fitted dressing room with handleless doors and brushed-gold detailing"
+        secondaryHref="/kitchens"
+        secondaryLabel="View kitchens"
       />
 
       {/* Intro */}

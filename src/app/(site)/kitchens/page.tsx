@@ -47,6 +47,8 @@ export default function KitchensPage() {
         subtitle="Designed around how you cook, gather and live — and built to last a lifetime."
         imageSrc="/images/kitchen-1.png"
         imageAlt="A bespoke handcrafted kitchen with an island"
+        secondaryHref="/wardrobes"
+        secondaryLabel="View wardrobes"
       />
 
       {/* Intro */}
