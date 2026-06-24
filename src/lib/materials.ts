@@ -1,6 +1,6 @@
 // Material finishes & indicative prices.
 //
-// Snapshot of Egger boards from Cut Edge Bond's public price-list API
+// Snapshot of board finishes from Cut Edge Bond's public price-list API
 // (cutedgebond.co.uk, brand 1). Data lives in src/data/egger-finishes.json.
 //
 // NOTE: this is third-party supplier data. Prices are indicative and change —

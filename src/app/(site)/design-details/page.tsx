@@ -88,7 +88,7 @@ export default function DesignDetailsPage() {
           label="Carcass finish options"
           title="Choose your colour & texture"
           align="center"
-          intro="Boards are supplied in the full Egger decor range — from smooth matt to woodgrain and textured finishes, in a colour to suit every room."
+          intro="Boards are available in a full range of finishes — from smooth matt to woodgrain and textured, in a colour to suit every room."
         />
 
         <FinishesGallery
