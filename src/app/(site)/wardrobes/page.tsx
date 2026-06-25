@@ -36,7 +36,13 @@ const highlights: Feature[] = [
   },
 ];
 
-const wardrobes = projects.filter((p) => p.category === "Wardrobes");
+// Six tiles: four wardrobes plus the two media walls (no separate page).
+const wardrobes = [
+  ...projects.filter((p) => p.category === "Wardrobes").slice(0, 4),
+  ...projects.filter((p) =>
+    ["Media wall with fireplace", "Cinema media wall"].includes(p.title),
+  ),
+];
 
 export default function WardrobesPage() {
   return (
@@ -45,7 +51,7 @@ export default function WardrobesPage() {
         label="Fitted wardrobes"
         title="Wardrobes & dressing rooms"
         subtitle="From floor-to-ceiling storage to walk-in dressing rooms, made to measure for your space."
-        imageSrc="/images/hero-image.webp"
+        imageSrc="/images/tv-wall.webp"
         imageAlt="A bespoke fitted dressing room with handleless doors and brushed-gold detailing"
         secondaryHref="/kitchens"
         secondaryLabel="View kitchens"
