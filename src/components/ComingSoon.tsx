@@ -10,7 +10,7 @@ export default function ComingSoon() {
     <main className="relative isolate flex min-h-screen flex-col items-center justify-center overflow-hidden bg-ink px-6 py-16 text-center text-white theme-dark">
       {/* Faded background image */}
       <Image
-        src="/images/hero-image.png"
+        src="/images/hero-image.webp"
         alt=""
         fill
         priority

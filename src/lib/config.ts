@@ -8,3 +8,9 @@
 // code by setting NEXT_PUBLIC_COMING_SOON=true.)
 export const COMING_SOON =
   (process.env.NEXT_PUBLIC_COMING_SOON ?? "false").toLowerCase() === "true";
+
+// Canonical production URL (used for metadata, sitemap, robots, JSON-LD).
+// Override per-environment with NEXT_PUBLIC_SITE_URL.
+export const SITE_URL = (
+  process.env.NEXT_PUBLIC_SITE_URL ?? "https://believeinteriors.co.uk"
+).replace(/\/$/, "");

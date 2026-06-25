@@ -7,7 +7,7 @@ import Reveal from "@/components/Reveal";
 import Icon from "@/components/Icons";
 import FinishesGallery from "@/components/FinishesGallery";
 import DoorIllustration from "@/components/DoorIllustration";
-import { constructionDetails, shakerDoors, slabDoors } from "@/lib/data";
+import { constructionDetails, shakerDoors } from "@/lib/data";
 import { finishesByGroup } from "@/lib/materials";
 
 export const metadata: Metadata = {
@@ -67,13 +67,13 @@ export default function DesignDetailsPage() {
 
           <div className="grid gap-6 sm:grid-cols-2 lg:sticky lg:top-28">
             <Frame
-              src="/images/construction/premium-hardware.png"
+              src="/images/construction/premium-hardware.webp"
               alt="Close-up of a soft-close hinge fitted to a cabinet door"
               className="aspect-[3/4] w-full"
               sizes="(max-width: 1024px) 50vw, 25vw"
             />
             <Frame
-              src="/images/construction/adjustable-shelving.png"
+              src="/images/construction/adjustable-shelving.webp"
               alt="Adjustable shelving inside a fitted cabinet"
               className="aspect-[3/4] w-full sm:mt-12"
               sizes="(max-width: 1024px) 50vw, 25vw"
@@ -160,7 +160,7 @@ export default function DesignDetailsPage() {
           <div className="grid grid-cols-2 gap-4">
             <figure className="text-center">
               <Frame
-                src="/images/doors/standard.png"
+                src="/images/doors/standard.webp"
                 alt="A standard shaker door without beading"
                 className="aspect-[151/341] w-full"
                 sizes="(max-width: 1024px) 50vw, 25vw"
@@ -172,7 +172,7 @@ export default function DesignDetailsPage() {
             </figure>
             <figure className="text-center">
               <Frame
-                src="/images/doors/beeded.png"
+                src="/images/doors/beeded.webp"
                 alt="A shaker door with a decorative beaded inner edge"
                 className="aspect-[151/341] w-full"
                 sizes="(max-width: 1024px) 50vw, 25vw"

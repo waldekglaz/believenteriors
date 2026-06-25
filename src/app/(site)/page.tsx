@@ -12,7 +12,7 @@ export default function Home() {
     <>
       <section className="relative isolate flex min-h-[88vh] items-center justify-center overflow-hidden bg-ink text-white theme-dark">
         <Image
-          src="/images/hero-image.png"
+          src="/images/hero-image.webp"
           alt="A bespoke fitted dressing room with handleless doors and brushed-gold detailing"
           fill
           priority

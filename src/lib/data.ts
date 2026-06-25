@@ -111,7 +111,7 @@ export const projects: Project[] = [
     category: "Kitchens",
     blurb:
       "Gloss-finish cabinetry with quartz worktops and integrated appliances.",
-    src: "/images/kitchen-1.png",
+    src: "/images/kitchen-1.webp",
   },
   {
     title: "Handleless kitchen",
@@ -132,14 +132,14 @@ export const projects: Project[] = [
     title: "Media wall with fireplace",
     category: "Media walls",
     blurb: "Recessed electric fire framed by lit display niches.",
-    src: "/images/tv-wall.png",
+    src: "/images/tv-wall.webp",
   },
   {
     title: "Cinema media wall",
     category: "Media walls",
     blurb:
       "Custom-built entertainment wall with feature fireplace and ambient lighting.",
-    src: "/images/cinema-wall.png",
+    src: "/images/cinema-wall.webp",
   },
   {
     title: "Angled-ceiling wardrobe",
@@ -183,44 +183,6 @@ export const projects: Project[] = [
   },
 ];
 
-export type FinishSwatch = {
-  name: string;
-  code: string;
-  hex: string;
-};
-
-// ST9 Smooth Matt Finish — standard range
-export const standardFinishes: FinishSwatch[] = [
-  { name: "Premium White", code: "W1000", hex: "#f4f3ef" },
-  { name: "Cashmere", code: "U1115", hex: "#d8cfc0" },
-  { name: "Stone Grey", code: "U12188", hex: "#b7b2aa" },
-  { name: "Pebble", code: "U112", hex: "#cfc9bf" },
-  { name: "Dust Grey", code: "U727", hex: "#9a958d" },
-  { name: "Slate", code: "U702", hex: "#6f6f6f" },
-  { name: "Graphite", code: "U763", hex: "#4a4a4a" },
-  { name: "Anthracite", code: "U732", hex: "#3a3b3d" },
-  { name: "Indigo", code: "U961", hex: "#3b4255" },
-  { name: "Petrol Blue", code: "U968", hex: "#33454a" },
-  { name: "Black", code: "U999", hex: "#1c1c1c" },
-  { name: "Sage Green", code: "SG01", hex: "#9aa389" },
-];
-
-// Woodgrain & Textured Finishes — premium range
-export const premiumFinishes: FinishSwatch[] = [
-  { name: "Natural Oak", code: "H3303", hex: "#c9a877" },
-  { name: "Sand Oak", code: "H3133", hex: "#cdb088" },
-  { name: "Light Walnut", code: "H1145", hex: "#a87c4f" },
-  { name: "Tobacco Oak", code: "H3157", hex: "#8a5e38" },
-  { name: "Smoked Oak", code: "H3710", hex: "#6f583f" },
-  { name: "Dark Walnut", code: "H3176", hex: "#5a3f2c" },
-  { name: "Linen Texture", code: "F186", hex: "#ded7c8" },
-  { name: "Concrete", code: "F187", hex: "#a9a6a0" },
-  { name: "Slate Stone", code: "F242", hex: "#6b6b6d" },
-  { name: "Marble White", code: "F758", hex: "#eceae4" },
-  { name: "Rust Metal", code: "F206", hex: "#8a5a43" },
-  { name: "Textured Black", code: "U999", hex: "#222222" },
-];
-
 export type DoorStyle = {
   name: string;
   description: string;
@@ -238,35 +200,35 @@ export const shakerDoors: DoorStyle[] = [
     description: "A classic full-height shaker frame — clean and versatile.",
     panels: 1,
     layout: "single",
-    image: "/images/doors/door-single.png",
+    image: "/images/doors/door-single.webp",
   },
   {
     name: "Mid rail lower",
     description: "A single rail set low for a grounded, contemporary look.",
     panels: 2,
     layout: "lower",
-    image: "/images/doors/door-mid-rail-lower.png",
+    image: "/images/doors/door-mid-rail-lower.webp",
   },
   {
     name: "Mid rail centred",
     description: "A balanced central rail dividing the door evenly.",
     panels: 2,
     layout: "centred",
-    image: "/images/doors/door-mid-rail-center.png",
+    image: "/images/doors/door-mid-rail-center.webp",
   },
   {
     name: "Three panel equal",
     description: "Two rails creating three equal panels with rhythm and depth.",
     panels: 3,
     layout: "equal",
-    image: "/images/doors/door-three-panel-equal.png",
+    image: "/images/doors/door-three-panel-equal.webp",
   },
   {
     name: "Three panel top & bottom square",
     description: "Square panels top and bottom framing a tall central panel.",
     panels: 3,
     layout: "topBottom",
-    image: "/images/doors/door-three-square.png",
+    image: "/images/doors/door-three-square.webp",
   },
 ];
 
