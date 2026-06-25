@@ -70,9 +70,20 @@ export default function Footer() {
       </div>
 
       <div className="border-t border-white/10">
-        <div className="mx-auto flex max-w-6xl flex-col gap-2 px-6 py-6 text-xs text-white/65 sm:flex-row sm:items-center sm:justify-between sm:px-10">
+        <div className="mx-auto flex max-w-6xl flex-col gap-3 px-6 py-6 text-xs text-white/65 sm:flex-row sm:items-center sm:justify-between sm:px-10">
           <p>© {year} Believe Interiors. All rights reserved.</p>
-          <p>Made to measure · Professionally installed · Built to last</p>
+          <div className="flex items-center gap-4">
+            <Link
+              href="/privacy"
+              className="transition-colors hover:text-gold"
+            >
+              Privacy Policy
+            </Link>
+            <span aria-hidden className="text-white/25">
+              ·
+            </span>
+            <span>Made to measure · Built to last</span>
+          </div>
         </div>
       </div>
     </footer>
