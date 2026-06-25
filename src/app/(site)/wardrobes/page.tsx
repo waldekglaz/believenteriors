@@ -50,7 +50,7 @@ export default function WardrobesPage() {
       <PageHero
         label="Fitted wardrobes"
         title="Wardrobes & dressing rooms"
-        subtitle="From floor-to-ceiling storage to walk-in dressing rooms, made to measure for your space."
+        subtitle="From floor-to-ceiling wardrobes and walk-in dressing rooms to bespoke media walls, made to measure for your space."
         imageSrc="/images/tv-wall.webp"
         imageAlt="A bespoke fitted dressing room with handleless doors and brushed-gold detailing"
         secondaryHref="/kitchens"
@@ -77,6 +77,9 @@ export default function WardrobesPage() {
               Choose your doors, finishes and handles, then tailor the inside to
               suit your wardrobe — hanging, drawers, shelving and shoe storage,
               all scribed flush to your walls and ceilings for a built-in look.
+              The same fitted craftsmanship extends to bespoke media walls and
+              living-room units, designed around your TV, storage and the way
+              you relax.
             </p>
           </div>
         </div>
@@ -103,7 +106,7 @@ export default function WardrobesPage() {
       <Section tone="paper">
         <SectionHeading
           label="Our wardrobes"
-          title="A selection of recent wardrobes"
+          title="Recent wardrobes & media walls"
           align="center"
           intro="Select any image to view it enlarged, then step through the collection."
           className="mb-14"
